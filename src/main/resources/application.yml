@@ -1,0 +1,12 @@
+server:
+  port: 8080
+student:
+  name: JK
+  age: 36
+  sex: 男
+  job: 工程师
+engineer:
+  name: CK
+  age: 35
+  sex: 女
+  job: 设计师
